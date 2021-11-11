@@ -8,7 +8,7 @@ I've started developpment in Java, 10 years ago, in different kind of projects: 
 ___
 
 Bûcheron avant tout, je développe sur mon temps libre, essayant tous type de langages, mais la plupart de mes projets (~~pas terminé~~) sont privés ici. **¯\\\_(ツ)_/¯**
-J'ai commencé le développement en Java, il y a 10 ans à peu près, sur différents types de projets: modding Minecraft, outils personnels ou professionnel pour mon travail en forêt.
+J'ai commencé le développement en Java, il y a 10 ans à peu près, sur différents types de projets: modding Minecraft, outils personnels ou professionnels pour mon travail en forêt.
 ___
 <img src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png"></img>
 <a href="https://twitch.tv/jibiay">Twitch.tv/Jibiay</a>
