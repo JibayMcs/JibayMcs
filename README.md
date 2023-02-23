@@ -17,6 +17,6 @@ ___
 <a href="https://twitter.com/ZeAmateis">@ZeAmateis</a>
 
 
-![](https://github-readme-stats-biya-jibaymcs.vercel.app/api/top-langs/?username=JibayMcs&langs_count=20&layout=compact&theme=tokyonight)
-![](https://github-readme-stats-biya-jibaymcs.vercel.app/api?username=JibayMcs&show_icons=true&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=jibaymcs&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jibaymcs&layout=compact&theme=tokyonight)
 
